@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-  * nul - multiplies two integers
+  * mul - multiplies two integers
   * @x: the first number to multiply
   * @y: the second number to multiply with first number
   * Return: the result of multiplication between x param and y param
