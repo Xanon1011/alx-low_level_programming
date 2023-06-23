@@ -1,0 +1,5 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 positive_or_negative.c main.c
+gcc -std=gnu89 1-main.c -o 1-main
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 2-largest_number.c 2-main.c -o 2-main
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 3-convert_day.c 3-print_remaining_days.c 3-main_a.c -o 3-main_a
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 3-convert_day.c 3-print_remaining_days.c 3-main_b.c -o 3-main_b
