@@ -1,2 +1,1 @@
-# alx-low_level_programming
-C programming language 
+0x06-pointers_arrays_strings 0x06-pointers_arrays_strings/
