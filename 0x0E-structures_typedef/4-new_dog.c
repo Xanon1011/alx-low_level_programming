@@ -50,7 +50,7 @@ int _strlen(char *s)
 {
 	int c = 0;
 
-	for(; *s != '\0'; s++)
+	for (; *s != '\0'; s++)
 	{
 		c++;
 	}
@@ -65,7 +65,7 @@ int _strlen(char *s)
 char *_strcpy(char *dest, char *src)
 {
 	int i;
-	
+
 	for (i = 0; src[i] != '\0'; i++)
 	{
 		dest[i] = src[i];
